@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-''' 
-chaima ben slima 
+'''
+chaima ben slima
 '''
 
 def to_str(n: float) -> str:

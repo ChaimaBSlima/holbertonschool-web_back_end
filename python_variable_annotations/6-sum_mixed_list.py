@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-''' 
-chaima ben slima 
+'''
+chaima ben slima
 '''
 
 from typing import List, Union

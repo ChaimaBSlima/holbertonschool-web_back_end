@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-''' 
-chaima ben slima 
+'''
+chaima ben slima
 '''
 
 def add(a: float, b: float) -> float:
