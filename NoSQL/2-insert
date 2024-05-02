@@ -1,0 +1,6 @@
+// Chaima Ben Slima.
+db.school.insert(
+  {
+    name: "Holberton school"
+  }
+)

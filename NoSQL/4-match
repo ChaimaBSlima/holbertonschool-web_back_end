@@ -1,0 +1,2 @@
+// Chaima Ben Slima.
+db.school.find({"name": "Holberton school"})
